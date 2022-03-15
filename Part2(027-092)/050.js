@@ -1,6 +1,21 @@
 const printHello = () => console.log('hello'); //{} 중괄호를 쓰지 않아도 됩니다.
+/*
+function printHello() {
+    console.log('hello')
+}
+*/
+
 const printHello2 = () => 'hello2'; //hello2를 return합니다.
-const printMessage = message => console.log(message);
+/*
+function printHello2() {
+    return 'hello2'
+}
+*/
+
+
+function printMessage(message) {
+    return console.log(message);
+}
 const plus = (a, b) => a + b;
 const minus = (a, b) => a - b;
 
