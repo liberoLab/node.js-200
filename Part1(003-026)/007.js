@@ -4,10 +4,10 @@
 여러줄 주석
 */
 
-console.log('hello')
+console.log('hello');
 //console.log('hello')
 
-console.log('welcome')
+console.log('welcome');
 /*
 console.log('happy')
 console.log('birth')

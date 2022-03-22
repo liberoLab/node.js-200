@@ -1,7 +1,7 @@
 const abs1 = Math.abs('-1'); //1
 const abs2 = Math.abs(-3.141592); //3.141592
 const abs3 = Math.abs([2]); //2
-const abs4 = Math.abs([1,2]); //NaN 배열의 수가 1개를 초과할 경우 NaN 출력
+const abs4 = Math.abs([1, 2]); //NaN 배열의 수가 1개를 초과할 경우 NaN 출력
 const abs5 = Math.abs({}); //NaN 객체 리터럴 이므로 NaN 출력
 const abs6 = Math.abs(null); //0 으로 인정 되는 예외
 const abs7 = Math.abs(''); //0 으로 약속 됨

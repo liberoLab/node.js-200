@@ -1,17 +1,17 @@
 const printHello = () => console.log('hello');
 
 try {
-    printHello();
+  printHello();
 } catch (e) {
-    console.error(e);
+  console.error(e);
 } finally {
-    console.log('finally1')
+  console.log('finally1');
 }
 
 try {
-    printBye();
+  printBye();
 } catch (e) {
-    console.error(e);
+  console.error(e);
 } finally {
-    console.log('finally2')
+  console.log('finally2');
 }

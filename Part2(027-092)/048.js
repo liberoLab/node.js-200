@@ -1,12 +1,12 @@
 //함수 선언식(Function declaration)
 function printMessage(message) {
-    console.log(message);
+  console.log(message);
 }
 
 //함수 표현식(Function expression)
 const printWelcome = function () {
-    console.log('welcom');
-}
+  console.log('welcom');
+};
 
 printMessage('bey');
 printWelcome();

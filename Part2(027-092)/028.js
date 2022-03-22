@@ -1,5 +1,5 @@
 if (true) {
-    console.log('true')
+  console.log('true');
 } else {
-    console.log('false')
+  console.log('false');
 }

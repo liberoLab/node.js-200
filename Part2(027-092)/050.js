@@ -12,9 +12,8 @@ function printHello2() {
 }
 */
 
-
 function printMessage(message) {
-    return console.log(message);
+  return console.log(message);
 }
 const plus = (a, b) => a + b;
 const minus = (a, b) => a - b;

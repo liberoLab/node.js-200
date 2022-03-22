@@ -1,14 +1,14 @@
-const score = 85
-let degree = ''
+const score = 85;
+let degree = '';
 
 if (score >= 90) {
-    degree = 'A'
+  degree = 'A';
 } else if (score >= 80) {
-    degree = 'B'
+  degree = 'B';
 } else if (score >= 60) {
-    degree = 'C'
+  degree = 'C';
 } else {
-    degree = 'F'
+  degree = 'F';
 }
 
-console.log('degree : ', degree)
+console.log('degree : ', degree);

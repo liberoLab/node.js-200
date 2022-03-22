@@ -3,7 +3,6 @@ const sqrt2 = Math.sqrt(1); //1
 const sqrt3 = Math.sqrt(0); //0
 const sqrt4 = Math.sqrt(-1); //NaN
 
-
 const cbrt1 = Math.cbrt(-8); //-2
 const cbrt2 = Math.cbrt(0); //0
 const cbrt3 = Math.cbrt(1); //1

@@ -1,9 +1,9 @@
 function printMessage(pMessage) {
-    console.log(pMessage)
+  console.log(pMessage);
 }
-printMessage('hello')
+printMessage('hello');
 
 const printMessage2 = (pMessage) => {
-    console.log(pMessage)
-}
-printMessage2('bey')
+  console.log(pMessage);
+};
+printMessage2('bey');
